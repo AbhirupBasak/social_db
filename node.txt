@@ -2,8 +2,9 @@ post path:localhost:8080/feed/createuser
 sample data for post:
 {
   "first_name": "Abhirup;",
-  "last_name": "Basak;",
-  "email": "basakabhirup@gmail.com;",
-  "phone": "9126797203;",
-  "post_id": "1;"
+  "last_name": "Basak",
+  "email": "basakabhirup@gmail.com",
+  "phone": "9126797203",
+  "post_id": "1"
 }
+get path:localhost:8080/feed/getusers
